@@ -121,20 +121,21 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 
 
 ## Connect with me  
+
 <div align="left">
-<a href="https://twitter.com/flyingPig2" target="_blank">
+<a href="https://twitter.com" target="_blank">  <!-- 暂时未指定 -->
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/flyingPig2" target="_blank">
+</a>    
+<a href="https://gitlab.com/flyingPig2" target="_blank">  <!-- 指定 -->
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/flyingPig2" target="_blank">
+<a href="https://github.com/flyingPig2" target="_blank">   <!-- 指定 -->
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/10394225/yanghc" target="_blank">
+<a href="https://     " target="_blank">     <!-- 空着 -->
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/channel/UCUt7QPLenlD78GDXg4nXCAA" target="_blank">
+<a href="https://www.youtube.com" target="_blank">    <!-- 暂时未指定 -->
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   
 </div>  
