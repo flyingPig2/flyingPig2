@@ -35,10 +35,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 
 ## My Skill Set  
 
-
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="left">  
