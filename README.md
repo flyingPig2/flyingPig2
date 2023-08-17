@@ -19,7 +19,7 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.svg)th visitor
 <br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=flyingPig2&left_color=green&right_color=red)
+
 <br/>
 
 ## About My Github
