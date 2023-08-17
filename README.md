@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
 
@@ -18,10 +19,11 @@
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.svg)th visitor
 <br/>
+
 <br/>
 
-
 # About My Github
+
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=flyingPig2&theme=vue-dark&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6) -->
 <div>
@@ -30,7 +32,10 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 </div>
 
 
+
 ## My Skill Set  
+
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -141,7 +146,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 
 
 #
-
-© 2022 Made with ❤ by [profilinator](https://profilinator.rishav.dev/)
 
 <br/>  <br/>
