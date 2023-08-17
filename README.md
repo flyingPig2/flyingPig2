@@ -15,7 +15,6 @@
 - 👨‍🦳  Father of zero girls.
 - 📧  [Tencent mailbox](mailto:958160760@qq.com).
 <br/>
-<br/>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.svg)th visitor
 <br/>
@@ -32,6 +31,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 </div>
 
 
+<br/>
 
 ## My Skill Set  
 
@@ -118,8 +118,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 
 <br/>  
 
-
-
 ## Connect with me  
 
 <div align="left">
@@ -140,6 +138,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 </a>   
 </div>    
 
-<br/>  
-<br/>  
 <br/>  
