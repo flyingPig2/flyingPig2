@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## GitHub Stats
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingPig2)
+![flyingPig2's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingPig2)
 
 
 
