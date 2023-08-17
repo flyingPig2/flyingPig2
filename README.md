@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=flyingPig2)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingPig2)
 
 
 
