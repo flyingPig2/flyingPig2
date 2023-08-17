@@ -12,7 +12,7 @@
 - 👨‍🎓  HUE.
 - 🎖️  CUMT.
 - 👩‍💻  0 years of work.
-- 👨‍🦳  Father of zeor girls.
+- 👨‍🦳  Father of zero girls.
 - 📧  [Tencent mailbox](mailto:958160760@qq.com).
 <br/>
 <br/>
@@ -138,14 +138,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.s
 <a href="https://www.youtube.com" target="_blank">    <!-- 暂时未指定 -->
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>   
-</div>  
-  
+</div>    
 
 <br/>  
 <br/>  
 <br/>  
-
-
-#
-
-<br/>  <br/>
