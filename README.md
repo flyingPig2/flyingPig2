@@ -1,12 +1,3 @@
-## 🌠Coding Time
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=flyingPig2&theme=vue-dark&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6) -->
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=flyingPig2&theme=vue-dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6&layout=compact" />
-</div>
-
-
 ### Hi there 👋
 <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
 
@@ -26,23 +17,17 @@
 <br/>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/flyingPig2/count.svg)th visitor
-
 <br/>
 <br/>
 
 
 # About My Github
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&layout=compact&langs_count=8&theme=cobalt)](https://github.com/flyingPig2/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=flyingPig2&show_icons=true&theme=cobalt)](https://github.com/flyingPig2/github-readme-stats)-->
-
-<div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=flyingPig2&show_icons=true&theme=cobalt" align="center" />
-</div>  
-
-<br/>  
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=flyingPig2&theme=vue-dark&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6) -->
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=flyingPig2&theme=vue-dark&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingPig2&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=vue-dark&langs_count=6&layout=compact" />
+</div>
 
 
 ## My Skill Set  
